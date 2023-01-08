@@ -5,3 +5,4 @@ function myFunction() {
     var button= document.getElementById("swap");
     button.className="button_day";
  }
+ 
